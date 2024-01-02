@@ -2,5 +2,4 @@
 
 A quick introduction about myself.
 
-I am the Founder CEO of Win Authority. I am still figuring out the entrepreneur journey.
-About Win Authority, we are a creative innovative agency that helps companies innovate through technology.
+I am a software engineer with web technologies and server-side management expertise exploring the entrepreneurship world. I am passionate about utilizing web-based technologies to drive innovation for companies of all sizes while making an impact in the web hosting space.
